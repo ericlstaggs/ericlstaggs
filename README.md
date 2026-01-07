@@ -4,8 +4,7 @@ Aspiring to help create the next gen AI for cyber security
 
 🌍  I'm based in Florence Al
 ✉️  You can contact me at estaggs@una.edu
-Skills
-Socials
+
 
 <!--
 **ericlstaggs/ericlstaggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
